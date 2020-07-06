@@ -1,0 +1,21 @@
+body{
+	background-image: url(file:///C:/Users/Ollee/Downloads/KG.gif); 
+	background-size: cover;
+}
+
+h1:hover{
+	color:#AA8E39;
+	text-align: center;
+	cursor: pointer;
+}
+
+h3{
+	color: #C4B94B;
+	font-style: italic;
+}
+
+p{
+	color: #C4B94B;
+	text-decoration: underline;
+	font-style:italic;
+}
